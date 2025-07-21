@@ -19,7 +19,7 @@ if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
 }
 const allowedOrigins = [
-  'https://traveloop-tan.vercel.app',
+  'https://traveloop-main.vercel.app',
   'http://localhost:5173',
 ];
 
