@@ -66,7 +66,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center text-gray-300">
                 <FiMail className="mr-3 text-sky-400" />
-                lsubrahmanyam1234@gmail.com
+                sssleelakrishna@gmail.com
               </li>
               <li className="flex items-center text-gray-300">
                 <FiPhone className="mr-3 text-emerald-400" />
